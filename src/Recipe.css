@@ -1,0 +1,14 @@
+.Recipe-card{
+    width: 430px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    box-shadow: rgb(241, 116, 99) 3px 3px 30px;
+    margin: 20px 0px;
+}
+
+.Recipe-card img {
+    height: 325px;
+    width: 325px;
+}
